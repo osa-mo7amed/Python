@@ -43,3 +43,4 @@ elif mood == "serious":
     
 else:
     print("Invalid mood. Please choose 'serious' or 'angery'.")
+    

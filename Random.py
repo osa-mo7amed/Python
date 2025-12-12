@@ -30,4 +30,3 @@ random.shuffle(cards) #The shuffle function require lists
 input("Press Enter to shuffle your cards: ")
 for card in cards:
     print(card, end = ", ")
-

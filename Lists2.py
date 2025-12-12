@@ -9,3 +9,4 @@ i = 0
 for alumni in Alumni:
     print(i+1 ,alumni["name"], alumni["age"], alumni["job"], sep=", ")
     i = i + 1
+    

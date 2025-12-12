@@ -21,4 +21,3 @@ elif switch == '/':
 else:
     print("Invalid operation")
     
-    
